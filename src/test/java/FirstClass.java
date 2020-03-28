@@ -8,5 +8,12 @@ public class FirstClass {
         System.out.println("THis is after I fetched");
         System.out.println("This is my fetch");
 
+        System.out.println("ulalalalalallalalalallalallala");
+
+
+    }
+    public int returnStar(){
+        String a="1";
+        return 123;
     }
 }
