@@ -6,6 +6,7 @@ public class FirstClass {
         System.out.println("Gesha's second time trying");
         System.out.println("Third time trying to push");
         System.out.println("THis is after I fetched");
+        System.out.println("This is my fetch");
 
     }
 }
